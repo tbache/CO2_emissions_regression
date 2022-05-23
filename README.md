@@ -17,3 +17,7 @@ The project is contained inside the CO2_emissions_regression.ipynb jupyter noteb
     - Linear model
     - Random forest
     - Random forest with hyperparameter optimisation
+
+
+The code here is also available on Kaggle:
+https://www.kaggle.com/code/tombache/co2-emissions-eda-rf-hyperparameter-optimization
